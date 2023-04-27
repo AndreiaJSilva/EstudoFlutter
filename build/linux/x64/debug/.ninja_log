@@ -1,0 +1,28 @@
+# ninja log v5
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/libflutter_linux_gtk.so	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_engine.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_value.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_view.h	66d372e8d734661
+0	123621	0	/home/deia-silva/Área de Trabalho/FlutterEstudo/flutter_application_1/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	66d372e8d734661
+0	123621	0	flutter/_phony_	66d372e8d734661
+123728	140884	1682632585301112226	CMakeFiles/flutter_application_1.dir/flutter/generated_plugin_registrant.cc.o	3709c3ccda6a81a3
+123724	141679	1682632586285121637	CMakeFiles/flutter_application_1.dir/main.cc.o	737a0128b7cedb11
+123728	141680	1682632586281121598	CMakeFiles/flutter_application_1.dir/my_application.cc.o	75248658f95a7045
+141681	144693	1682632589305150482	intermediates_do_not_run/flutter_application_1	e07ddbbb2a85d283
+144693	151428	0	CMakeFiles/install.util	144b4f4c3cc844cb
